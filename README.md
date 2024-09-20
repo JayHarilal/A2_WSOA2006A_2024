@@ -1,0 +1,2 @@
+# A2_WSOA2006A_2024
+Assignment 2 - WSOA2006A
